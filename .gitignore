@@ -57,6 +57,7 @@ dkms.conf
 # Zephyr build outputs
 build/
 build_*/
+build-*/
 twister-out/
 twister-out.*/
 *.bin
