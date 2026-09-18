@@ -53,3 +53,26 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Zephyr build outputs
+build/
+build_*/
+twister-out/
+twister-out.*/
+*.bin
+*.hex
+*.elf
+*.map
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / misc
+*~
+*.swp
+.idea/
+.vscode/
+
+vendor/flash_algorithms/FR8010H.FLM
