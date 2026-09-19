@@ -136,7 +136,7 @@ catches mismatches). There is no MCUboot / A-B slot / scratch partition.
 - Every source file carries the license header:
   `Copyright (c) 2026 HardenedLinux Animula` /
   `Author: Nala Ginrut <roy@hardenedlinux.org>` /
-  `SPDX-License-Identifier: GPL-3.0-or-later`.
+  `SPDX-License-Identifier: LGPL-3.0-or-later`.
 - No SoC/HAL code here — reuse upstream Zephyr STM32F411 support.
 - Keep the bootloader minimal: no MPU / HW stack protection (the application
   re-enables these); the bootloader must hand off cleanly to the app.

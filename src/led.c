@@ -2,7 +2,7 @@
  * Copyright (c) 2026 HardenedLinux Animula
  * Author: Nala Ginrut <roy@hardenedlinux.org>
  *
- * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-License-Identifier: LGPL-3.0-or-later
  */
 
 #include "led.h"

@@ -45,7 +45,8 @@ west debug        # attach a debugger
 
 ## License
 
-GPL-3.0-or-later. See `LICENSE`.
+LGPL-3.0-or-later. See `COPYING.LESSER` (the LGPLv3 text) and `COPYING`
+(the GPLv3 text it incorporates).
 
 Copyright (c) 2026 HardenedLinux Animula.
 
